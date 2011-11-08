@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<info>
+	<id>haddock</id>
+	<name>Haddock :: Tomboy Notes</name>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Anthony W. Rainer (pristine.source@gmail.com)</author>
+	<require>2</require>
+	<description>Tomboy Notes Sync</description>
+	<default_enable/>
+</info>
